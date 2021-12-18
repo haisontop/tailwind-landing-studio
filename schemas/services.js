@@ -23,7 +23,7 @@ export default {
       },
     },
     {
-      name: "offering",
+      name: "offerings",
       title: "Our Offering",
       type: "array",
       of: [
